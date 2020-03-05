@@ -6,7 +6,7 @@ It will work to stop updates for users which don't want to pay for Pro version o
 
 Download older stable version
 
-* (5.3.9)[https://pluginarchive.com/wordpress/google-analytics-dashboard-for-wp]
-* (5.3.10)[https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.5.3.10.zip]
+* [5.3.9](https://pluginarchive.com/wordpress/google-analytics-dashboard-for-wp)
+* [5.3.10](https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.5.3.10.zip)
 
-(Download plugin)[https://github.com/idzan/gadwp-update-disabler/archive/v1.0.zip]
+[Download plugin](https://github.com/idzan/gadwp-update-disabler/archive/v1.0.zip)
